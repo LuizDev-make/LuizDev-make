@@ -14,6 +14,10 @@
 
 <br/>
 
+<!-- ============================================================ -->
+<!--                    VERSÃO EM PORTUGUÊS                       -->
+<!-- ============================================================ -->
+
 ## 🇧🇷 Versão em Português
 
 ### 👨‍💻 Sobre mim
@@ -102,7 +106,11 @@ luiz = {
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LuizDev-make&theme=dark&hide_border=true&background=0d0d1a&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&currStreakNum=ffffff&sideNums=ffffff&dates=a8b2d8" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDev-make&layout=compact&langs_count=6&hide_border=true&bg_color=0d0d1a&title_color=e94560&text_color=a8b2d8" alt="Top Languages" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python-★★★★☆-e94560?style=flat-square&logo=python&logoColor=white&labelColor=0d0d1a"/>
+  <img src="https://img.shields.io/badge/JavaScript-★★★☆☆-e94560?style=flat-square&logo=javascript&logoColor=white&labelColor=0d0d1a"/>
+  <img src="https://img.shields.io/badge/HTML5-★★★☆☆-e94560?style=flat-square&logo=html5&logoColor=white&labelColor=0d0d1a"/>
+  <img src="https://img.shields.io/badge/CSS3-★★★☆☆-e94560?style=flat-square&logo=css3&logoColor=white&labelColor=0d0d1a"/>
 </div>
 
 ---
@@ -128,6 +136,10 @@ luiz = {
 ---
 
 <br/>
+
+<!-- ============================================================ -->
+<!--                      ENGLISH VERSION                         -->
+<!-- ============================================================ -->
 
 ## 🇺🇸 English Version
 
@@ -217,7 +229,11 @@ luiz = {
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LuizDev-make&theme=dark&hide_border=true&background=0d0d1a&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&currStreakNum=ffffff&sideNums=ffffff&dates=a8b2d8" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDev-make&layout=compact&langs_count=6&hide_border=true&bg_color=0d0d1a&title_color=e94560&text_color=a8b2d8" alt="Top Languages" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python-★★★★☆-e94560?style=flat-square&logo=python&logoColor=white&labelColor=0d0d1a"/>
+  <img src="https://img.shields.io/badge/JavaScript-★★★☆☆-e94560?style=flat-square&logo=javascript&logoColor=white&labelColor=0d0d1a"/>
+  <img src="https://img.shields.io/badge/HTML5-★★★☆☆-e94560?style=flat-square&logo=html5&logoColor=white&labelColor=0d0d1a"/>
+  <img src="https://img.shields.io/badge/CSS3-★★★☆☆-e94560?style=flat-square&logo=css3&logoColor=white&labelColor=0d0d1a"/>
 </div>
 
 ---
