@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Luiz%20Eduardo&fontSize=50&fontColor=e94560&fontAlignY=38&desc=Information%20Systems%20Student%20•%20UFRPE&descAlignY=58&descSize=18&descColor=a8b2d8&animation=fadeIn" />
@@ -13,10 +15,6 @@
 ---
 
 <br/>
-
-<!-- ============================================================ -->
-<!--                    VERSÃO EM PORTUGUÊS                       -->
-<!-- ============================================================ -->
 
 ## 🇧🇷 Versão em Português
 
@@ -126,7 +124,7 @@ luiz = {
 
 <div align="right">
 
-[🔝 Voltar ao topo](#)
+[🔝 Voltar ao topo](#top)
 
 </div>
 
@@ -136,10 +134,6 @@ luiz = {
 ---
 
 <br/>
-
-<!-- ============================================================ -->
-<!--                      ENGLISH VERSION                         -->
-<!-- ============================================================ -->
 
 ## 🇺🇸 English Version
 
@@ -249,7 +243,7 @@ luiz = {
 
 <div align="right">
 
-[🔝 Back to top](#)
+[🔝 Back to top](#top)
 
 </div>
 
