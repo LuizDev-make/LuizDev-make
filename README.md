@@ -100,8 +100,9 @@ luiz = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuizDev-make&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDev-make&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=e94560&text_color=a8b2d8"/>
+  <img src="https://streak-stats.demolab.com?user=LuizDev-make&theme=dark&hide_border=true&background=0d0d1a&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&currStreakNum=ffffff&sideNums=ffffff&dates=a8b2d8" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDev-make&layout=compact&langs_count=6&hide_border=true&bg_color=0d0d1a&title_color=e94560&text_color=a8b2d8" alt="Top Languages" />
 </div>
 
 ---
@@ -214,8 +215,9 @@ luiz = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuizDev-make&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDev-make&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=e94560&text_color=a8b2d8"/>
+  <img src="https://streak-stats.demolab.com?user=LuizDev-make&theme=dark&hide_border=true&background=0d0d1a&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&currStreakNum=ffffff&sideNums=ffffff&dates=a8b2d8" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDev-make&layout=compact&langs_count=6&hide_border=true&bg_color=0d0d1a&title_color=e94560&text_color=a8b2d8" alt="Top Languages" />
 </div>
 
 ---
