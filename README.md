@@ -20,13 +20,13 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou estudante de **Sistemas de Informação na UFRPE**, apaixonado por desenvolvimento de software e pela interseção entre tecnologia e problemas reais. Gosto de construir projetos que tenham impacto prático — da agricultura sustentável a interfaces web.
+Sou estudante de **Sistemas de Informação na UFRPE**, apaixonado por desenvolvimento de software e pela interseção entre tecnologia e problemas reais. Gosto de construir projetos que tenham impacto prático — de dashboards estatísticos a sistemas de apoio à decisão com machine learning.
 
 ```python
 luiz = {
     "formação":     "Sistemas de Informação - UFRPE",
-    "foco atual":   ["Python", "JavaScript", "HTML/CSS"],
-    "interesses":   ["Desenvolvimento Web", "Automação", "Sustentabilidade"],
+    "foco atual":   ["Python", "FastAPI", "Machine Learning", "Dados"],
+    "interesses":   ["Análise de Dados", "Automação", "Sustentabilidade"],
     "aprendendo":   "Sempre algo novo 🚀"
 }
 ```
@@ -36,6 +36,28 @@ luiz = {
 ### 🚀 Projetos em Destaque
 
 <table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 Dashboard de Monitoramento Estudantil</h3>
+      <p align="center">
+        <a href="https://github.com/LuizDev-make/dashboard-de-monitoramento-estudantil">
+          <img src="https://img.shields.io/badge/Ver%20Projeto-0f3460?style=for-the-badge&logo=github&logoColor=e94560"/>
+        </a>
+      </p>
+      <p>Sistema completo de monitoramento estatístico acadêmico da UFRPE, com <strong>FastAPI</strong>, SQLite e um modelo de <strong>regressão logística</strong> (scikit-learn) que estima o risco de evasão/reprovação e classifica estudantes em faixas de risco.</p>
+      <p><code>Python</code> &nbsp; <code>FastAPI</code> &nbsp; <code>Machine Learning</code> &nbsp; <code>SQLite</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📈 Dashboard Estatístico</h3>
+      <p align="center">
+        <a href="https://github.com/LuizDev-make/dashboard-estatistico">
+          <img src="https://img.shields.io/badge/Ver%20Projeto-0f3460?style=for-the-badge&logo=github&logoColor=e94560"/>
+        </a>
+      </p>
+      <p>Dashboard interativo em <strong>Shiny for Python</strong> para análise estatística: upload de CSV/Excel, estatística descritiva, teste Z de hipóteses, intervalo de confiança e regressão linear simples.</p>
+      <p><code>Python</code> &nbsp; <code>Shiny</code> &nbsp; <code>SciPy</code> &nbsp; <code>Estatística</code></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center">🌱 PlantioCerto</h3>
@@ -58,29 +80,16 @@ luiz = {
       <p><code>JavaScript</code> &nbsp; <code>Lógica</code> &nbsp; <code>Web</code></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎉 Amigo Secreto</h3>
-      <p align="center">
-        <a href="https://github.com/LuizDev-make/Amigo-Secreto">
-          <img src="https://img.shields.io/badge/Ver%20Projeto-0f3460?style=for-the-badge&logo=github&logoColor=e94560"/>
-        </a>
-      </p>
-      <p>Aplicação web para sorteio de amigo secreto com interface estilizada em <strong>CSS</strong>.</p>
-      <p><code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>JavaScript</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏢 Página Institucional</h3>
-      <p align="center">
-        <a href="https://github.com/LuizDev-make/Pagina-Institucional">
-          <img src="https://img.shields.io/badge/Ver%20Projeto-0f3460?style=for-the-badge&logo=github&logoColor=e94560"/>
-        </a>
-      </p>
-      <p>Modelo de página institucional desenvolvido em <strong>HTML</strong>, focado em estrutura semântica e boas práticas.</p>
-      <p><code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>Web Design</code></p>
-    </td>
-  </tr>
 </table>
+
+<details>
+<summary>📁 Outros projetos</summary>
+<br/>
+
+- **[Amigo Secreto](https://github.com/LuizDev-make/Amigo-Secreto)** — Aplicação web para sorteio de amigo secreto com interface estilizada em CSS.
+- **[Página Institucional](https://github.com/LuizDev-make/Pagina-Institucional)** — Modelo de página institucional em HTML, focado em estrutura semântica.
+
+</details>
 
 ---
 
@@ -89,9 +98,11 @@ luiz = {
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=e94560)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=e94560)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=e94560)
 ![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=e94560)
 ![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=e94560)
+![SQLite](https://img.shields.io/badge/SQLite-1a1a2e?style=for-the-badge&logo=sqlite&logoColor=e94560)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=e94560)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560)
 
@@ -105,7 +116,8 @@ luiz = {
   <img src="https://streak-stats.demolab.com?user=LuizDev-make&theme=dark&hide_border=true&background=0d0d1a&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&currStreakNum=ffffff&sideNums=ffffff&dates=a8b2d8" alt="GitHub Streak" />
   <br/><br/>
   <br/>
-  <img src="https://img.shields.io/badge/Python-★★★★☆-e94560?style=flat-square&logo=python&logoColor=white&labelColor=0d0d1a"/>
+  <img src="https://img.shields.io/badge/Python-★★★★★-e94560?style=flat-square&logo=python&logoColor=white&labelColor=0d0d1a"/>
+  <img src="https://img.shields.io/badge/FastAPI-★★★★☆-e94560?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d0d1a"/>
   <img src="https://img.shields.io/badge/JavaScript-★★★☆☆-e94560?style=flat-square&logo=javascript&logoColor=white&labelColor=0d0d1a"/>
   <img src="https://img.shields.io/badge/HTML5-★★★☆☆-e94560?style=flat-square&logo=html5&logoColor=white&labelColor=0d0d1a"/>
   <img src="https://img.shields.io/badge/CSS3-★★★☆☆-e94560?style=flat-square&logo=css3&logoColor=white&labelColor=0d0d1a"/>
@@ -139,13 +151,13 @@ luiz = {
 
 ### 👨‍💻 About Me
 
-I'm an **Information Systems student at UFRPE**, passionate about software development and the intersection between technology and real-world problems. I enjoy building projects that have practical impact — from sustainable agriculture to web interfaces.
+I'm an **Information Systems student at UFRPE**, passionate about software development and the intersection between technology and real-world problems. I enjoy building projects with practical impact — from statistical dashboards to decision-support systems powered by machine learning.
 
 ```python
 luiz = {
     "education":     "Information Systems - UFRPE",
-    "current focus": ["Python", "JavaScript", "HTML/CSS"],
-    "interests":     ["Web Development", "Automation", "Sustainability"],
+    "current focus": ["Python", "FastAPI", "Machine Learning", "Data"],
+    "interests":     ["Data Analysis", "Automation", "Sustainability"],
     "learning":      "Always something new 🚀"
 }
 ```
@@ -155,6 +167,28 @@ luiz = {
 ### 🚀 Featured Projects
 
 <table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 Student Monitoring Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/LuizDev-make/dashboard-de-monitoramento-estudantil">
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=e94560"/>
+        </a>
+      </p>
+      <p>Full academic monitoring system for UFRPE, built with <strong>FastAPI</strong>, SQLite, and a <strong>logistic regression</strong> model (scikit-learn) that estimates dropout/failure risk and classifies students into risk tiers.</p>
+      <p><code>Python</code> &nbsp; <code>FastAPI</code> &nbsp; <code>Machine Learning</code> &nbsp; <code>SQLite</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📈 Statistical Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/LuizDev-make/dashboard-estatistico">
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=e94560"/>
+        </a>
+      </p>
+      <p>Interactive <strong>Shiny for Python</strong> dashboard for statistical analysis: CSV/Excel upload, descriptive statistics, Z hypothesis testing, confidence intervals, and simple linear regression.</p>
+      <p><code>Python</code> &nbsp; <code>Shiny</code> &nbsp; <code>SciPy</code> &nbsp; <code>Statistics</code></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center">🌱 PlantioCerto</h3>
@@ -177,29 +211,16 @@ luiz = {
       <p><code>JavaScript</code> &nbsp; <code>Logic</code> &nbsp; <code>Web</code></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎉 Secret Santa</h3>
-      <p align="center">
-        <a href="https://github.com/LuizDev-make/Amigo-Secreto">
-          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=e94560"/>
-        </a>
-      </p>
-      <p>A web app for Secret Santa draws with a styled interface built in <strong>CSS</strong>.</p>
-      <p><code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>JavaScript</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏢 Institutional Page</h3>
-      <p align="center">
-        <a href="https://github.com/LuizDev-make/Pagina-Institucional">
-          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=e94560"/>
-        </a>
-      </p>
-      <p>An institutional page template built in <strong>HTML</strong>, focused on semantic structure and best practices.</p>
-      <p><code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>Web Design</code></p>
-    </td>
-  </tr>
 </table>
+
+<details>
+<summary>📁 Other projects</summary>
+<br/>
+
+- **[Secret Santa](https://github.com/LuizDev-make/Amigo-Secreto)** — A web app for Secret Santa draws with a styled CSS interface.
+- **[Institutional Page](https://github.com/LuizDev-make/Pagina-Institucional)** — An institutional page template in HTML, focused on semantic structure.
+
+</details>
 
 ---
 
@@ -208,9 +229,11 @@ luiz = {
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=e94560)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=e94560)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=e94560)
 ![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=e94560)
 ![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=e94560)
+![SQLite](https://img.shields.io/badge/SQLite-1a1a2e?style=for-the-badge&logo=sqlite&logoColor=e94560)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=e94560)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560)
 
@@ -224,7 +247,8 @@ luiz = {
   <img src="https://streak-stats.demolab.com?user=LuizDev-make&theme=dark&hide_border=true&background=0d0d1a&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&currStreakNum=ffffff&sideNums=ffffff&dates=a8b2d8" alt="GitHub Streak" />
   <br/><br/>
   <br/>
-  <img src="https://img.shields.io/badge/Python-★★★★☆-e94560?style=flat-square&logo=python&logoColor=white&labelColor=0d0d1a"/>
+  <img src="https://img.shields.io/badge/Python-★★★★★-e94560?style=flat-square&logo=python&logoColor=white&labelColor=0d0d1a"/>
+  <img src="https://img.shields.io/badge/FastAPI-★★★★☆-e94560?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d0d1a"/>
   <img src="https://img.shields.io/badge/JavaScript-★★★☆☆-e94560?style=flat-square&logo=javascript&logoColor=white&labelColor=0d0d1a"/>
   <img src="https://img.shields.io/badge/HTML5-★★★☆☆-e94560?style=flat-square&logo=html5&logoColor=white&labelColor=0d0d1a"/>
   <img src="https://img.shields.io/badge/CSS3-★★★☆☆-e94560?style=flat-square&logo=css3&logoColor=white&labelColor=0d0d1a"/>
